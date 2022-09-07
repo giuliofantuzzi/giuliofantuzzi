@@ -1,5 +1,4 @@
-<p align="center"><img src="https://nodusanalytics.com/wp-content/uploads/2021/03/bi-dashboard-for-website.gif"/> </p>
-
+<p align="center"><img src="https://nodusanalytics.com/wp-content/uploads/2021/03/bi-dashboard-for-website.gif" width="700"> </p>
 <br />
 <h1 align="center">Hi 👋, I'm GIULIO FANTUZZI !</h1>
 <h3 align="center">A STUDENT PASSIONATE ABOUT STATISTICS, PROBABILITY AND PROGRAMMNG :books: :bar_chart: :computer:</h3>
