@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif"/> </p>
+<p align="center"><img src="https://nodusanalytics.com/wp-content/uploads/2021/03/bi-dashboard-for-website.gif"/> </p>
 
 <br />
 <h1 align="center">Hi 👋, I'm GIULIO FANTUZZI !</h1>
