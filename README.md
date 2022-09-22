@@ -12,14 +12,14 @@
 <p align="left">
 <h4>Friendly with:</h4>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a>
+<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="50" height="50"/> </a>
 <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/r-project/r-project-official.svg" alt="python" width="50" height="50"/> </a>
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://jupyter.org/assets/homepage/main-logo.svg" alt="python" width="50" height="50"/> </a>
 <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"> <img src="https://i.stack.imgur.com/zHFFO.png" alt="python" width="80" height="40"/> </a>
-<h4>Good at:</h4>
-<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="50" height="50"/> </a>
+<h4>Basics of:</h4>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/> </a>
-<h4>Learning:</h4>
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://bashlogo.com/img/symbol/svg/full_colored_dark.svg" alt="bash" width="60" height="60"/> </a>
+<h4>Learning:</h4>
 <a href="https://julialang.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/julialang/julialang-icon.svg" alt="bash" width="45" height="45"/> </a>
 
  </p>
