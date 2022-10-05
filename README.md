@@ -24,8 +24,8 @@
 
  </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=giuliofantuzzi&show_icons=true&locale=en&layout=compact" alt="giuliofantuzzi" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=giuliofantuzzi&count_private=true&show_icons=true&locale=en" alt="giuliofantuzzi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=giuliofantuzzi&show_icons=true&locale=en" alt="giuliofantuzzi" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=giuliofantuzzi&count_private=true&show_icons=true&locale=en" alt="giuliofantuzzi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=giuliofantuzzi&" alt="giuliofantuzzi" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=giuliofantuzzi&count_private=true" alt="giuliofantuzzi" /></p>
