@@ -20,6 +20,7 @@
 <h4>Learning:</h4>
 <a href="https://julialang.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/julialang/julialang-icon.svg" alt="bash" width="45" height="45"/> </a>
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://bashlogo.com/img/symbol/svg/full_colored_dark.svg" alt="bash" width="60" height="60"/> </a>
+ <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" width="80" height="75"/> </a>
  </p>
  <a href="https://github.com/giuliofantuzzi/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=giuliofantuzzi&show_icons=true&include_all_commits=true&theme=default&hide_border=false" alt="Giulio's github stats" /></a>  <a href="https://github.com/giuliofantuzzi/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giuliofantuzzi&theme=default&hide_border=false" /></a> 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=giuliofantuzzi&count_private=true&theme=default" alt="giuliofantuzzi" /></p>
