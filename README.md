@@ -9,7 +9,7 @@
 
 <h2 align="left">Programming languages and tools:</h2>
 <p align="left">
-<h4>Friendly with:</h4>
+<h4>Proficient with:</h4>
 <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/r-project/r-project-official.svg" alt="R" width="50" height="50"/> </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" width="80" height="75"/> </a>
 <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"> <img src="https://i.stack.imgur.com/zHFFO.png" alt="Latex" width="80" height="40"/> </a>
