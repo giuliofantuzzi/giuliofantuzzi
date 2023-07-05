@@ -1,4 +1,12 @@
-<h1 align="center"> GIULIO FANTUZZI :books: :bar_chart: :computer:</h3></h1>
+<h1 align="center"> GIULIO FANTUZZI </h3></h1>
+<h2 lign="left"><i>About me:</h2>
+<ul>
+  <li> From Italy :it:</li>
+  <li> 21yo :birthday:</li>
+  <li> Torre di Mosto (VE) :round_pushpin: :earth_africa:</li>
+  <li> BSc Statistics and Informatics for Business, Finance and Insurance (University of Trieste) :bar_chart: :mortar_board:</li>
+  <li> :soon: MSc Data Science and Artificial Intelligenge (University of Trieste):computer: :robot:</li> 
+</ul>
 <h2 lign="left"><i>Connect with me:</h2>
 <p align="left">
 
@@ -17,7 +25,7 @@
 <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="50" height="50"/> </a>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/> </a>
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://bashlogo.com/img/symbol/svg/full_colored_dark.svg" alt="bash" width="60" height="60"/> </a>
-
  </p>
+ <h2>Some stats:</h2>
  <a href="https://github.com/giuliofantuzzi/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=giuliofantuzzi&show_icons=true&include_all_commits=true&theme=default&hide_border=false" alt="Giulio's github stats" /></a>  <a href="https://github.com/giuliofantuzzi/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giuliofantuzzi&theme=default&hide_border=false" /></a> 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=giuliofantuzzi&count_private=true&theme=default" alt="giuliofantuzzi" /></p>
