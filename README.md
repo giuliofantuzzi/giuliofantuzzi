@@ -1,5 +1,4 @@
 <h1 align="center"> GIULIO FANTUZZI :books: :bar_chart: :computer:</h3></h1>
-<p align="center"><img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611fe48214d2e27e3d29dda7c9d574b6cac2dcaa913&rid=giphy.gif&ct=g" width="450" height="280"> </p>
 <h2 lign="left"><i>Connect with me:</h2>
 <p align="left">
 
