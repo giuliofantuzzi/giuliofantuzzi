@@ -3,7 +3,7 @@
 <ul>
   <li> From Italy :it:</li>
   <li> 21yo :birthday:</li>
-  <li> Torre di Mosto (VE) :round_pushpin: :earth_africa:</li>
+  <li> Torre di Mosto (VE) || Trieste (TS) :round_pushpin: :earth_africa:</li>
   <li> BSc Statistics and Informatics for Business, Finance and Insurance (University of Trieste) :bar_chart: :mortar_board:</li>
   <li> :soon: MSc Data Science and Artificial Intelligence (University of Trieste):computer: :robot:</li> 
 </ul>
