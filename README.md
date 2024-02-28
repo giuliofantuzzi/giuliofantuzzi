@@ -1,11 +1,9 @@
 <h1 align="center"> GIULIO FANTUZZI </h3></h1>
 <h2 lign="left"><i>About me:</h2>
 <ul>
-  <li> From Italy :it:</li>
-  <li> 22yo :birthday:</li>
   <li> Torre di Mosto (VE) || Trieste (TS) :round_pushpin: :earth_africa:</li>
-  <li> BSc Statistics and Informatics for Business, Finance and Insurance (University of Trieste) :bar_chart: :mortar_board:</li>
   <li> MSc Data Science and Artificial Intelligence (University of Trieste) :computer: :robot:</li> 
+  <li> BSc Statistics and Informatics for Business, Finance and Insurance (University of Trieste) :bar_chart: :mortar_board:</li>
 </ul>
 <h2 lign="left"><i>Connect with me:</h2>
 <p align="left">
